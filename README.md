@@ -1,58 +1,89 @@
 # Hi, I'm Gandharva Shetty 👋
 
-### Computer Data Science Undergraduate | Data Analytics & Business Intelligence
+### Computer Data Science Undergraduate | Data Analytics | Business Intelligence | AI & Full-Stack Development
 
-I'm a Computer Data Science undergraduate interested in transforming raw data into meaningful insights through data analysis, visualization, and business intelligence.
-
-I enjoy building interactive dashboards, exploring patterns in datasets, and communicating findings through data-driven storytelling.
+I'm a Computer Data Science undergraduate interested in transforming data into meaningful insights and building practical technology solutions. I enjoy developing interactive dashboards, exploring datasets, and creating AI-powered applications.
 
 ## 🛠️ Skills & Tools
 
 - **Data Visualization:** Power BI
-- **Data Preparation:** Power Query, data cleaning and transformation
-- **Analytics:** DAX, KPI development, trend analysis, funnel analysis
-- **Programming & Data:** Python, SQL, CSV and structured datasets
-- **Business Intelligence:** Dashboard design, performance analysis, actionable recommendations
+- **Data Preparation:** Power Query, data cleaning, and transformation
+- **Analytics:** DAX, KPI development, trend analysis, and funnel analysis
+- **Programming & Data:** Python, SQL, and structured datasets
+- **Web Development:** React.js, Vite, and FastAPI
+- **AI Integration:** Ollama Cloud and AI-powered application development
+- **Tools & Deployment:** Git, GitHub, Vercel, and Render
 
-## 📊 Featured Data Analytics Projects
+## 🚀 Featured Projects
 
-### 1. SalesPulse — Business Sales Performance Analytics
+### 1. DITORUM AI — AI-Powered Full-Stack Web Application
 
-Analyzed business sales performance and developed interactive dashboards to explore revenue trends, product performance, regional results, and business opportunities.
+A full-stack AI-powered web application featuring tools for everyday productivity and learning.
 
-**Tools:** Power BI, data visualization, business analytics
+- 💬 **AI Chat:** AI-powered answers and explanations.
+- 💻 **Coding Lab:** Code generation, explanations, and debugging assistance.
+- 🌐 **Multilingual Translator:** Text translation across languages.
+- 📄 **PDF & Document Interaction:** AI-assisted document interaction.
+- **Tech Stack:** React.js, Vite, Python, FastAPI, Ollama Cloud, Vercel, and Render.
 
-🔗 [View Project on GitHub](https://github.com/gandharvashetty/sales-pulse-business-analytics)
+🔗 [View DITORUM AI on GitHub](https://github.com/gandharvashetty/DITORUM-AI)
 
-### 2. Customer Retention & Churn Analysis
+### 2. SalesPulse — Business Sales Performance Analytics
 
-Explored customer churn patterns using the Telco Customer Churn dataset. Built Power BI dashboards to compare customer segments, identify churn-risk patterns, and recommend retention strategies.
+An interactive Power BI analytics project exploring business sales performance and opportunities.
 
-**Tools:** Power BI, Power Query, DAX
+- Analyzed sales trends across products, categories, regions, and time periods.
+- Prepared and transformed data for reporting.
+- Presented business KPIs and visual insights to support performance analysis.
 
-🔗 [View Project on GitHub](https://github.com/gandharvashetty/customer-churn-retention-analytics)
+**Tools:** Power BI, Power Query, DAX, and business analytics.
 
-### 3. E-Commerce Funnel & Conversion Analytics
+🔗 [View SalesPulse on GitHub](https://github.com/gandharvashetty/sales-pulse-business-analytics)
 
-Analyzed e-commerce product-view, cart-addition, and purchase events. Developed a three-page Power BI dashboard covering funnel activity, brand performance, and product growth opportunities.
+### 3. Customer Retention & Churn Analysis
 
-**Tools:** Power BI, Power Query, DAX
+A Power BI project exploring customer churn patterns using the Telco Customer Churn dataset.
 
-🔗 [View Project on GitHub](https://github.com/gandharvashetty/ecommerce-funnel-conversion-analytics)
+- Analyzed churn patterns across customer segments and service-related factors.
+- Built interactive dashboards to explore customer behavior and churn risk.
+- Identified potential opportunities for data-informed customer retention strategies.
 
-## 🎯 What I'm Working Toward
+**Tools:** Power BI, Power Query, and DAX.
 
-- Strengthening my data analytics and business intelligence skills
-- Building portfolio projects that solve practical analytical problems
-- Improving my ability to turn data into clear, actionable recommendations
-- Exploring opportunities to apply data science and analytics to real-world challenges
+🔗 [View Customer Churn Analysis on GitHub](https://github.com/gandharvashetty/customer-churn-retention-analytics)
+
+### 4. E-Commerce Funnel & Conversion Analytics
+
+A three-page Power BI dashboard exploring e-commerce behavioral events and funnel activity.
+
+- Analyzed product views, cart additions, and purchase events.
+- Explored brand- and product-level patterns.
+- Highlighted potential funnel drop-off points and growth opportunities.
+
+**Tools:** Power BI, Power Query, DAX, and data visualization.
+
+🔗 [View E-Commerce Funnel Analytics on GitHub](https://github.com/gandharvashetty/ecommerce-funnel-conversion-analytics)
+
+## 📄 Resume
+
+Interested in my skills, projects, and technical background?
+
+📥 **[View / Download My Data Analyst Resume (PDF)](./Gandharva_Shetty_Data_Analyst_Resume_Updated.pdf)**
+
+## 🎯 Career Interests
+
+- Data Analytics and Business Intelligence
+- Dashboard development and data visualization
+- Customer and business performance analysis
+- Artificial Intelligence and full-stack application development
+- Turning data into meaningful, actionable insights
 
 ## 🤝 Let's Connect
 
-I'm always interested in learning, collaborating on projects, and connecting with people in data analytics and technology.
-
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/)
+- **GitHub:** [github.com/gandharvashetty](https://github.com/gandharvashetty)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/b-k-gandharva-63b55b310/)
+- **Email:** gandharvashetty82@gmail.com
 
 ---
 
-*Learning continuously. Building with data. Turning insights into action.*
+*Learning continuously. Building with technology. Turning data into insights.*
